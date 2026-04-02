@@ -80,15 +80,6 @@ Passionate about transforming data into actionable insights through advanced ana
 - **Email**: yogeshyogs014@gmail.com
 - **LinkedIn**: linkedin.com/in/yogeshc118
 
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogesh-004&show_icons=true&theme=radical&hide_border=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-004&layout=compact&theme=radical&hide_border=true)](https://github.com/Yogesh-004)
-
 ---
 
 💡 *"Data is the new oil, and insights are the refined fuel for innovation."*

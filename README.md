@@ -1,4 +1,4 @@
-# Hi, I'm Yogesh 👋
+# Hi, I'm Yogesh 
 
 **Data Scientist | Machine Learning Engineer | Data Analyst**
 
@@ -78,7 +78,7 @@ Passionate about transforming data into actionable insights through advanced ana
 ## 📫 Let's Connect
 
 - **Email**: yogeshyogs014@gmail.com
-- **LinkedIn**: linkedin.com/in/yogeshc118
+- **LinkedIn**: [linkedin.com/in/yogeshc118](https://linkedin.com/in/yogeshc118/)
 
 ---
 
